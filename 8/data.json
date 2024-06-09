@@ -1,0 +1,10 @@
+{
+  "name": "John Doe",
+  "email": "john@email.com",
+  "age": 20,
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown"
+  },
+  "newKey": "newValue"
+}
